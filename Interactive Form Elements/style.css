@@ -1,0 +1,79 @@
+body {
+    
+    font-family: 'Dancing Script', cursive;
+    background-image:url("images/main.jpg");
+  
+}
+
+ h1 {
+ 	color:white;
+	text-align:center;
+	margin-bottom:0px;
+	
+}
+p{
+	color:white;
+	text-align:center;
+	border-bottom-style:solid;
+
+	
+}
+#main{
+	display:inline;
+	
+}
+#below1{
+	color:white;
+	padding-top:30px;
+	margin-left:50px;
+}
+
+#prod{
+	float: right;
+	clear:both;
+	padding-top:0px;
+}
+
+#prodCat{
+	
+	
+}
+#sec1{
+		margin-top:200px;
+	border-top-style:solid;
+	color:white;
+}
+#form {
+   	
+   	
+	
+  	margin-left:500px;
+   	margin-top:0px;
+
+   
+    color: white;
+   
+   
+}
+
+select {
+    font-family: 'Open Sans';
+    position: relative;
+    width: auto;
+    margin: 5px;
+    padding: 5px 6px 5px 8px;
+    font-size: 15px;
+    color: black;
+    text-shadow: 0 1px white;
+    background: white;
+    border: 0;
+    border-radius: 2;
+}
+section + section {
+	margin-top: 10px;
+}
+
+section > img {
+	display: block;
+	margin: 0 auto;
+}
